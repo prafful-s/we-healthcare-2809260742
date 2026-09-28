@@ -1,15 +1,14 @@
 {
   "mappings": [
-    "/content/we-healthcare/language-masters/en:/",
-    "/content/we-healthcare/language-masters/en/:/en/",
-    "/content/we-healthcare/configuration:/.helix/config.json",
-    "/content/we-healthcare/metadata:/metadata.json",
-    "/content/we-healthcare/redirects:/redirects.json",
-    "/content/we-healthcare/graphql:/graphql.json",
-    "/content/we-healthcare/placeholders:/placeholders.json"
+    "/content/aikhandelwal/sysmex/language-masters/en:/",
+    "/content/aikhandelwal/sysmex/language-masters/en/:/en/",
+    "/content/aikhandelwal/sysmex/configuration:/.helix/config.json",
+    "/content/aikhandelwal/sysmex/metadata:/metadata.json",
+    "/content/aikhandelwal/sysmex/redirects:/redirects.json",
+    "/content/aikhandelwal/sysmex/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/we-healthcare/",
-    "/content/dam/we-healthcare/"
+    "/content/aikhandelwal/sysmex/",
+    "/content/dam/aikhandelwal/sysmex/"
   ]
 }
